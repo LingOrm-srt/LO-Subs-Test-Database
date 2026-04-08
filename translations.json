@@ -1,9 +1,13 @@
 {
-  "251450": [
-    {"start": 1, "end": 5, "text": "Episode 1: The Secret starts now!", "type": "dialogue"},
-    {"start": 6, "end": 10, "text": "CONTEXT: This is a special Thai greeting.", "type": "note"}
-  ],
-  "251451": [
-    {"start": 1, "end": 5, "text": "Episode 2: The Reunion", "type": "dialogue"}
-  ]
+  "251450": {
+    "en": [
+      {"start": 1, "end": 5, "text": "I missed you, Orm.", "type": "dialogue"}
+    ],
+    "pt": [
+      {"start": 1, "end": 5, "text": "Senti sua falta, Orm.", "type": "dialogue"}
+    ],
+    "zh": [
+      {"start": 1, "end": 5, "text": "我想你了, Orm.", "type": "dialogue"}
+    ]
+  }
 }
