@@ -1,9 +1,9 @@
 {
   "MAPPING": {
-    "251450": "ONLY_YOU_EP_01",
-    "eOvOOJYLTYM": "ONLY_YOU_EP_01",
-    "251451": "ONLY_YOU_EP_02",
-    "YOUTUBE_ID_HERE": "ONLY_YOU_EP_02"
+    "251450": { "key": "ONLY_YOU_EP_01", "offset": 0 },
+    "eOvOOJYLTYM": { "key": "ONLY_YOU_EP_01", "offset": 3.2 },
+    "251451": { "key": "ONLY_YOU_EP_02", "offset": 0 }
+    "YOUTUBE_ID_HERE": { "key": "ONLY_YOU_EP_02", "offset": 3.2 }
   },
   "SUB_STORAGE": {
     "ONLY_YOU_EP_01": {
