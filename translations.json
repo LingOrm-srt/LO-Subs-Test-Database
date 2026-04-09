@@ -1,7 +1,7 @@
 {
   "MAPPING": {
     "251450": "ONLY_YOU_EP_01",
-    "eOvOOJYLTYM&list=PLDIqVRSvaz9L-4bRN8Tifs46p-R0jJ9xP": "ONLY_YOU_EP_01",
+    "eOvOOJYLTYM": "ONLY_YOU_EP_01",
     "251451": "ONLY_YOU_EP_02",
     "YOUTUBE_ID_HERE": "ONLY_YOU_EP_02"
   },
@@ -15,8 +15,8 @@
       ]
     },
     "ONLY_YOU_EP_02": {
-      "en": [ ... ],
-      "pt": [ ... ]
+      "en": [],
+      "pt": []
     }
   }
 }
