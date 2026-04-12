@@ -1,8 +1,5 @@
 {
   "MAPPING": {
-    "--- THE SECRET OF US SERIES ---": "",
-
-    
     "--- ONLY YOU SERIES ---": "",
     
     "--- EPISODE 01 ---": "",
@@ -12,14 +9,8 @@
     "--- EPISODE 02 ---": "",
     "251451": { "key": "ONLY_YOU_EP_02", "offset": 0 },
     "REPLACE_WITH_REAL_ID": { "key": "ONLY_YOU_EP_02", "offset": 3.2 }
-    
-    "--- EPISODE 03 ---": "",
-
-    
-    "--- EPISODE 04 ---": "",
   },
   "SUB_STORAGE": {
-    
     "--- ONLY YOU SERIES ---": "",
     
     "--- EPISODE 01 ---": "",
